@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppView.prototype.addCards Should add cards 1`] = `
+"<div class=\\"container\\"><div class=\\"search-container\\">
+    <div class=\\"logo\\">
+      <span class=\\"You\\">You</span>
+      <span class=\\"Tube\\">Tube</span>
+    </div>
+  <i class=\\"fas fa-search\\"></i><input type=\\"text\\"></div><div class=\\"slider\\"><div class=\\"cards-container\\" style=\\"margin-left: 0px;\\"></div></div><div class=\\"buttons-container\\"><button class=\\"active\\"></button><button></button></div></div><div class=\\"container\\"><div class=\\"slider\\"><div class=\\"cards-container\\"></div></div></div>"
+`;
+
+exports[`AppView.prototype.renderCards Should render cards 1`] = `
+"<div class=\\"container\\"><div class=\\"search-container\\">
+    <div class=\\"logo\\">
+      <span class=\\"You\\">You</span>
+      <span class=\\"Tube\\">Tube</span>
+    </div>
+  <i class=\\"fas fa-search\\"></i><input type=\\"text\\"></div><div class=\\"slider\\"><div class=\\"cards-container\\" style=\\"margin-left: 0px;\\"></div></div><div class=\\"buttons-container\\"><button class=\\"active\\"></button><button></button></div></div>"
+`;
